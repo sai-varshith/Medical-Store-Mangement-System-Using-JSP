@@ -17,6 +17,8 @@
 			</div>
 		</div>
 	</div>
+	
+	
 	<div class="header">
 		<div class="container2">
 			<div class="navbar">
@@ -91,6 +93,7 @@
 		</div>
 		<%
 		}
+		
 	catch(Exception e)
 	{
 		out.println("error: "+e);
